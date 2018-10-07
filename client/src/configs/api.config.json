@@ -1,0 +1,16 @@
+{
+    "BASE_URL": "http://localhost:5000/api",
+    "ENDPOINTS": {
+        "LOGIN": "/auth/login",
+        "COMPANY": "/buku",
+        "MENU": "/menu",
+        "PENGARANG": "/pengarang",
+        "AGAMA": "/agama",
+        "PENERBIT":"/penerbit",
+        "TYPE":"/type"
+    },
+    "LS": {
+        "USERDATA": "B159_USERDATA_KEY",
+        "TOKEN": "B159_TOKEN_KEY"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "local": {
+        "hosta" : "mongodb://anisfikriyyah:19Desember@ds263832.mlab.com",
+        "host" : "mongodb://localhost",
+        "port" : 27017,
+        "dbname" : "bc168"
+    }
+}
